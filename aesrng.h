@@ -1,7 +1,7 @@
+/* AES random number generator */
+
 #ifndef __AES_RNG_H__
 #define __AES_RNG_H__
-
-
 
 #if __x86_64__
 
