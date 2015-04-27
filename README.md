@@ -34,7 +34,7 @@ int main(void) {
 
 ## See also
 
-[This blog post](http://caswenson.com) about the library.
+[This blog post](http://www.caswenson.com/2015_04_26_an_simple_aesbased_random_number_generator) about the library.
 
 ## Caveats
 
